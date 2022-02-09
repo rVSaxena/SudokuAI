@@ -9,4 +9,4 @@ Implements the hill climb algorithm with random re-starts.
 
 Uses number of connected components as the score of a state.
 
-Successfully solves diabolical and extreme sections on sudokuwiki.com
+Successfully solves diabolical and extreme sections on sudokuwiki.org
